@@ -2,6 +2,7 @@
 
 $(document).ready(function(){
   $("#button").click(function(){
+    $("ul").empty();
     var countInput = parseInt($("input#count").val());
 
     pingpong(countInput);
