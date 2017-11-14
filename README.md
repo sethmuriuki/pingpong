@@ -15,7 +15,7 @@ numbers divisible by 5 are replaced by the word pong, numbers divisible by 15 ar
 
 ## Known Bugs
 
-:Does not clear out content
+:
 
 ## Technologies Used
 
